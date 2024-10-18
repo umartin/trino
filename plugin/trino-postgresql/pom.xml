@@ -41,6 +41,11 @@
 
         <dependency>
             <groupId>io.trino</groupId>
+            <artifactId>trino-geospatial</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>io.trino</groupId>
             <artifactId>trino-matching</artifactId>
         </dependency>
 
